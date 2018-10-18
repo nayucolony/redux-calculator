@@ -1,0 +1,13 @@
+{
+  "main.css": "/redux-calculator/build/static/css/main.c9b549b2.chunk.css",
+  "main.js": "/redux-calculator/build/static/js/main.83bd3fec.chunk.js",
+  "main.js.map": "/redux-calculator/build/static/js/main.83bd3fec.chunk.js.map",
+  "static/js/1.bd36337b.chunk.js": "/redux-calculator/build/static/js/1.bd36337b.chunk.js",
+  "static/js/1.bd36337b.chunk.js.map": "/redux-calculator/build/static/js/1.bd36337b.chunk.js.map",
+  "runtime~main.js": "/redux-calculator/build/static/js/runtime~main.6779f571.js",
+  "runtime~main.js.map": "/redux-calculator/build/static/js/runtime~main.6779f571.js.map",
+  "static/css/main.c9b549b2.chunk.css.map": "/redux-calculator/build/static/css/main.c9b549b2.chunk.css.map",
+  "index.html": "/redux-calculator/build/index.html",
+  "precache-manifest.6167897190f1716e1c607dfc5c3f8b15.js": "/redux-calculator/build/precache-manifest.6167897190f1716e1c607dfc5c3f8b15.js",
+  "service-worker.js": "/redux-calculator/build/service-worker.js"
+}
